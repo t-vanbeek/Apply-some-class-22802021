@@ -1,0 +1,36 @@
+body{background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center}
+A {text-decoration: none;}
+input{height: 15px;
+    padding: 2em}
+td{background-color: rgb(48, 48, 48);
+        color: blanchedalmond;
+        text-align: center;
+        padding: 1em}
+th{background-color: antiquewhite;
+    padding: 1em}
+tbody{text-align: center;
+            padding: 1em;}
+.class_01{
+        background-color: rgb(255, 112, 56);
+        text-decoration-color: rgb(255, 112, 56);
+        color: green;
+    }
+.class_02{
+        background-color: mediumvioletred;
+        text-decoration-color: mediumvioletred;
+        color: black;
+    }
+.class_03{
+        background-color: mediumaquamarine;
+        text-decoration-color: mediumaquamarine;
+        color: black
+    }
+.class_04{
+        background-color: gold;
+        text-decoration-color: gold;
+        color: black
+    }
+:any-link{color: currentColor}
